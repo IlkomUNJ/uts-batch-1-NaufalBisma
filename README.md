@@ -4,7 +4,7 @@ Name : Naufal Bisma Ismawan
 
 NIM  : 1313623029
 
-Class: A (A)
+Class: A (Batch 2)
 
 Gemini Prompt History: https://gemini.google.com/share/ee58a8eaff83
 
